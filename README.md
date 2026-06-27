@@ -1,3 +1,4 @@
+
 # Customer Intelligence & Churn Analytics
 
 A customer analytics project that combines RFM segmentation and machine learning to identify high-value customers, predict churn, and recommend data-driven retention strategies.
@@ -175,3 +176,4 @@ jupyter notebook
 Aspiring Data Analyst / Business Analyst passionate about transforming customer data into actionable business insights using Python, SQL, machine learning, and data visualization.
 
 If you found this project interesting, feel free to connect with me on LinkedIn or explore my other analytics projects.
+
