@@ -77,8 +77,9 @@ Paradox — high accuracy, zero business value.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
+```text
 Customer-Intelligence-Churn-Analytics/
 │
 ├── README.md
@@ -102,8 +103,9 @@ Customer-Intelligence-Churn-Analytics/
 │   ├── churn_by_segment.png
 │   ├── feature_importance.png
 │   └── confusion_matrix.png
-
----
+│
+└── outputs/
+```
 
 ## 🔬 Methodology
 
